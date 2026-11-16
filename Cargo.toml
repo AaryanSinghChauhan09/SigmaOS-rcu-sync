@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-rcu-sync"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS rcu-sync component - kernel_subsystem"
+
+[lib]
+name = "rcu_sync"
+path = "src/lib.rs"
