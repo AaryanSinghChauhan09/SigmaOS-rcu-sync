@@ -3,7 +3,7 @@ name = "SigmaOS-rcu-sync"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "rcu-sync component"
+description = "rcu sync component"
 upstream = []
 
 [contract]
